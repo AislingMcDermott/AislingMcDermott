@@ -2,8 +2,8 @@
 - 👀 I’m interested in travel
 - 🌱 I’m currently learning 8 foreign languages 
 - 💞️ I’m looking to collaborate on the basics of GitHub and R as this is all new to me
-- 📫 How to reach me by email
-- 😄 Pronouns: she/her
+- 📫 How to reach me: by email
+- 😄 Pronouns: always come before the verb
 - ⚡ Fun fact: I'm a candy crush addict
 
 <!---
